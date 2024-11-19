@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server.js",
     "marketplace": "node scripts/marketplace.js",
-    "add-component-header_portfolio": "node scripts/addComponent.js header_portfolio"
+    "add-component-header_portfolio": "node scripts/components.js header_portfolio"
   },
   "keywords": [
     "folonite",
