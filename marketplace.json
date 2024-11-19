@@ -9,5 +9,16 @@
     "downloadLink": "https://raw.githubusercontent.com/FFFSTANZA/Folonite-Lib/main/src/components/header_portfolio.js",
     "createdAt": "2024-11-20",
     "updatedAt": "2024-11-20"
+  },
+  {
+    "name": "project_card",
+    "version": "1.0.0",
+    "author": "FFFSTANZA",
+    "description": "A reusable project card component for showcasing projects in a portfolio website.",
+    "type": "component",
+    "tags": ["card", "portfolio", "folonite"],
+    "downloadLink": "https://raw.githubusercontent.com/FFFSTANZA/Folonite-Lib/main/src/components/project_card.js",
+    "createdAt": "2024-11-20",
+    "updatedAt": "2024-11-20"
   }
 ]
