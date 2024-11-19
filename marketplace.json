@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server.js",
     "marketplace": "node scripts/marketplace.js",
-    "install-header_portfolio": "curl -o ./src/components/header_portfolio.js https://raw.githubusercontent.com/FFFSTANZA/Folonite-Lib/main/src/components/header_portfolio.js"
+    "add-component-header_portfolio": "node scripts/addComponent.js header_portfolio"
   },
   "keywords": [
     "folonite",
@@ -26,4 +26,3 @@
   },
   "homepage": "https://github.com/FFFSTANZA/Folonite-Lib#readme"
 }
-
