@@ -20,5 +20,16 @@
     "downloadLink": "https://raw.githubusercontent.com/FFFSTANZA/Folonite-Lib/main/src/components/project_card.js",
     "createdAt": "2024-11-20",
     "updatedAt": "2024-11-20"
+  },
+  {
+    "name": "simple_portfolio_page",
+    "version": "1.0.0",
+    "author": "FFFSTANZA",
+    "description": "A simple portfolio page template for beginners, built with Folonite.js.",
+    "type": "page-template",
+    "tags": ["portfolio", "template", "beginners", "folonite"],
+    "downloadLink": "https://raw.githubusercontent.com/FFFSTANZA/Folonite-Lib/main/src/pages/simple_portfolio_page.js",
+    "createdAt": "2024-11-20",
+    "updatedAt": "2024-11-20"
   }
 ]
