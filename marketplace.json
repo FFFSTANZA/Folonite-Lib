@@ -1,30 +1,33 @@
 {
-  "name": "header_portfolio",
-  "version": "1.0.0",
-  "description": "A simple, reusable Header component for portfolio websites built with Folonite.js.",
-  "main": "Header.js",
+  "name": "folonite-library",
+  "version": "2.1.0",
+  "description": "Folonite.js library for building scalable web apps with reusable components.",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"No tests specified\" && exit 0"
+    "start": "node server.js",
+    "test": "echo \"No tests specified\" && exit 0",
+    "marketplace": "node scripts/marketplace.js"
   },
   "keywords": [
     "folonite",
     "folonite.js",
-    "header",
-    "portfolio",
-    "component",
-    "UI",
-    "reusable"
+    "components",
+    "marketplace",
+    "header_portfolio"
   ],
-  "author": "Your Name",
+  "dependencies": {
+    // If "header_portfolio" is standalone, include this:
+    "header_portfolio": "^1.0.0"
+  },
+  "author": "Folonite Labs",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/header_portfolio.git"
+    "url": "https://github.com/FFFSTANZA/Folonite-Lib.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/header_portfolio/issues"
+    "url": "https://github.com/FFFSTANZA/Folonite-Lib/issues"
   },
-  "homepage": "https://github.com/yourusername/header_portfolio#readme",
-  "dependencies": {}
+  "homepage": "https://github.com/FFFSTANZA/Folonite-Lib#readme"
 }
 
