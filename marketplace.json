@@ -1,28 +1,10 @@
 {
-  "name": "folonite-library",
-  "version": "2.1.0",
-  "description": "Folonite.js library for building scalable web apps with reusable components.",
-  "main": "index.js",
-  "scripts": {
-    "start": "node server.js",
-    "marketplace": "node scripts/marketplace.js",
-    "add-component-header_portfolio": "node scripts/components.js header_portfolio"
-  },
-  "keywords": [
-    "folonite",
-    "folonite.js",
-    "components",
-    "marketplace",
-    "header_portfolio"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/FFFSTANZA/Folonite-Lib.git"
-  },
-  "author": "Folonite Labs",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/FFFSTANZA/Folonite-Lib/issues"
-  },
-  "homepage": "https://github.com/FFFSTANZA/Folonite-Lib#readme"
+  "components": {
+    "header_portfolio": {
+      "name": "header_portfolio",
+      "description": "A reusable header component for portfolio websites built with Folonite.js.",
+      "path": "src/components/header_portfolio.js",
+      "usage": "<Component name=\"header_portfolio\" props='{\"name\":\"Your Portfolio\"}' />"
+    }
+  }
 }
