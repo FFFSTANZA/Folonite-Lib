@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
-    "test": "echo \"No tests specified\" && exit 0",
-    "marketplace": "node scripts/marketplace.js"
+    "marketplace": "node scripts/marketplace.js",
+    "install-header_portfolio": "curl -o ./src/components/header_portfolio.js https://raw.githubusercontent.com/FFFSTANZA/Folonite-Lib/main/src/components/header_portfolio.js"
   },
   "keywords": [
     "folonite",
@@ -15,16 +15,12 @@
     "marketplace",
     "header_portfolio"
   ],
-  "dependencies": {
-    // If "header_portfolio" is standalone, include this:
-    "header_portfolio": "^1.0.0"
-  },
-  "author": "Folonite Labs",
-  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/FFFSTANZA/Folonite-Lib.git"
   },
+  "author": "Folonite Labs",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/FFFSTANZA/Folonite-Lib/issues"
   },
