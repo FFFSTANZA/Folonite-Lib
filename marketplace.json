@@ -1,1 +1,30 @@
+{
+  "name": "header_portfolio",
+  "version": "1.0.0",
+  "description": "A simple, reusable Header component for portfolio websites built with Folonite.js.",
+  "main": "Header.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "folonite",
+    "folonite.js",
+    "header",
+    "portfolio",
+    "component",
+    "UI",
+    "reusable"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/header_portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/header_portfolio/issues"
+  },
+  "homepage": "https://github.com/yourusername/header_portfolio#readme",
+  "dependencies": {}
+}
 
