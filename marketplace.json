@@ -1,10 +1,13 @@
-{
-  "components": {
-    "header_portfolio": {
-      "name": "header_portfolio",
-      "description": "A reusable header component for portfolio websites built with Folonite.js.",
-      "path": "src/components/header_portfolio.js",
-      "usage": "<Component name=\"header_portfolio\" props='{\"name\":\"Your Portfolio\"}' />"
-    }
+[
+  {
+    "name": "header_portfolio",
+    "version": "1.0.0",
+    "author": "FFFSTANZA",
+    "description": "A reusable header component for portfolio websites built with Folonite.js.",
+    "type": "component",
+    "tags": ["header", "portfolio", "folonite"],
+    "downloadLink": "https://raw.githubusercontent.com/FFFSTANZA/Folonite-Lib/main/src/components/header_portfolio.js",
+    "createdAt": "2024-11-20",
+    "updatedAt": "2024-11-20"
   }
-}
+]
